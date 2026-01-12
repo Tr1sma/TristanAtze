@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tr1sma" alt="Tr1sma" /></a> </p>
 
-- 🔭 I’m currently working on [my own Nuget Packages which can be found here](https://www.nuget.org/packages?q=BenSowieja)
+- 🔭 I’m currently working on [an App for my girlfriend](https://github.com/Tr1sma/BookLoggerApp)
 
 - 🌱 I’m currently learning **.NET MAUI and C++**
 
